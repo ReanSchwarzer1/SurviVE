@@ -10,3 +10,10 @@
 <h2 align="left"> Level Layout </h2> 
 <img src="./Images/2.jpg" width="600" height="300"> 
 <img src="./Images/3.jpg" width="600" height="300"> 
+
+
+<h2 align="left"> Environmental Design </h2> 
+
+<img src="./Images/4.jpg" width="600" height="300"> 
+<img src="./Images/5.jpg" width="600" height="300"> 
+<img src="./Images/6.jpg" width="600" height="300"> 
